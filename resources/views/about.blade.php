@@ -11,7 +11,7 @@
             <div class="text-gray-300">
                 <a href="{{ route('home') }}" class="hover:text-primary transition">Home</a>
                 <span class="mx-2">/</span>
-                <span>About Us</span>
+                <span>About Uds</span>
             </div>
         </div>
     </div>
